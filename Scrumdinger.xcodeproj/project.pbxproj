@@ -14,6 +14,7 @@
 		DF2BA3FA2AAA646600CCCA6D /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF2BA3F92AAA646600CCCA6D /* Theme.swift */; };
 		DF2BA3FC2AAA69E100CCCA6D /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF2BA3FB2AAA69E100CCCA6D /* DailyScrum.swift */; };
 		DF2BA4002AAA726B00CCCA6D /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF2BA3FF2AAA726B00CCCA6D /* CardView.swift */; };
+		DF2BA40C2AAA7DDA00CCCA6D /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF2BA40B2AAA7DDA00CCCA6D /* TrailingIconLabelStyle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		DF2BA3F92AAA646600CCCA6D /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
 		DF2BA3FB2AAA69E100CCCA6D /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
 		DF2BA3FF2AAA726B00CCCA6D /* CardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CardView.swift; path = Scrumdinger/CardView.swift; sourceTree = SOURCE_ROOT; };
+		DF2BA40B2AAA7DDA00CCCA6D /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 			isa = PBXGroup;
 			children = (
 				DF2BA3F92AAA646600CCCA6D /* Theme.swift */,
+				DF2BA40B2AAA7DDA00CCCA6D /* TrailingIconLabelStyle.swift */,
 				DF2BA3FB2AAA69E100CCCA6D /* DailyScrum.swift */,
 			);
 			path = Models;
@@ -157,6 +160,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DF2BA3FC2AAA69E100CCCA6D /* DailyScrum.swift in Sources */,
+				DF2BA40C2AAA7DDA00CCCA6D /* TrailingIconLabelStyle.swift in Sources */,
 				DF2BA3FA2AAA646600CCCA6D /* Theme.swift in Sources */,
 				DF2BA3EC2AA94DB500CCCA6D /* MeetingView.swift in Sources */,
 				DF2BA3EA2AA94DB500CCCA6D /* ScrumdingerApp.swift in Sources */,
